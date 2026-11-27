@@ -1,0 +1,6 @@
+{
+  "name": "Financial Portfolio Analysis System",
+  "description": "Python and Streamlit stock market portfolio dashboard for tracking virtual Indian equity investments, profit/loss, allocation, and risk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
